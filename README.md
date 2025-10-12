@@ -29,8 +29,14 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)]()
 
 <!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham)
-
+<div>
+  <a href="https://github.com/Wanderson-FB/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Wanderson-FB" />
+</a>
+<a href="https://github.com/Wanderson-FB/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Wanderson-FB&layout=compact&langs_count=8&card_width=320" />
+</a>
+</div>
 <!-- Portfolio -->
 ## Portfolio:
 - [Seaborn Data Visualization]()
