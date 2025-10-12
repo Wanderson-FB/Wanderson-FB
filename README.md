@@ -37,14 +37,6 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Wanderson-FB&layout=compact&langs_count=8&card_width=320" />
 </a>
 </div>
-<!-- Portfolio -->
-## Portfolio:
-- [Seaborn Data Visualization]()
-- [Exploratory Data Analysis]()
-- [Interactive Data Visualization]()
-- [Data Querying and Analysis]()
-- [Client Registry System]()
-
 <!-- GIF -->
 <p align="left">
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
