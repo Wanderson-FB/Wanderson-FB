@@ -1,10 +1,10 @@
 ## Olá eu sou o Wanderson Braga!👋
 
 <div>
-  <a href="https://github.com/Wanderson-FB/README.md">
+  <a href="https://github.com/Wanderson-FB">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Wanderson-FB&theme=blue-green" />
 </a>
-<a href="https://github.com/Wanderson-FB/convoychat">
+<a href="https://github.com/Wanderson-FB">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Wanderson-FB&layout=compact&langs_count=8&card_width=320&theme=blue-green" />
 </a>
 </div>
