@@ -31,13 +31,10 @@ Acredito que nossos hobbies e vivências pessoais ajudam a expandir a criativida
 ##
 
 <!-- GithubStats -->
-<div>
-  <a href="https://github.com/Wanderson-FB/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Wanderson-FB&theme=blue-green" />
-</a>
-<a href="https://github.com/Wanderson-FB/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Wanderson-FB&layout=compact&langs_count=8&card_width=320&theme=blue-green" />
-</a>
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Wanderson-FB&theme=neon&card_width=1000&card_height=300)](https://git.io/streak-stats)
+
 </div>
 
 ##
