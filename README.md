@@ -56,6 +56,11 @@ Acredito que nossos hobbies e vivências pessoais ajudam a expandir a criativida
 <br>
 
 ## 
+<div align=certer>
+
+<img src="https://raw.githubusercontent.com/Wanderson-FB/Wanderson-FB/output/snake.svg" alt="Snake animation" />
+  
+</div>
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
