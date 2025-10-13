@@ -1,3 +1,4 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=871BEB"/>
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
@@ -23,24 +24,38 @@ Acredito que nossos hobbies e vivências pessoais ajudam a expandir a criativida
 </details>
 
 ##
+<br>
 
 <!-- Links -->
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+<div> 
+ 	<a href="" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
 ##
 
+<br>
 <!-- GithubStats -->
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Wanderson-FB&theme=neon&card_width=1000&card_height=300)](https://git.io/streak-stats)
+<img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=Wanderson-FB&show_icons=true&count_private=true&rank_icon=github&theme=omni&font=Iosevka"/>
+<img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wanderson-FB&layout=compact&font=Iosevka&langs_count=16&theme=omni"/>
+
 
 </div>
 
 ##
 
+<br>
+
 <!-- GIF -->
 ![Image](https://github.com/user-attachments/assets/c1221071-b657-4955-bf18-9e95b479721a)
+
+<br>
+
+## 
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
