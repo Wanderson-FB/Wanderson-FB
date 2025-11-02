@@ -2,26 +2,46 @@
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Olá Mundo!</h1></summary>
+    <summary><h1 style="display: inline-block">Hello World!</h1></summary>
 </div>
 
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&multiline=true&random=false&width=600&height=70&lines=Coding+the+future%2C+one+line+at+a+time;Pushing+the+boundaries+of+what's+possible" alt="Typing SVG" /></a
+</div>
 <!-- Presentation -->
-<p>
-  Olá 👋, eu sou o Wanderson! Um estudante brasileiro apaixonado por Tecnologia.
+
+ # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> About Me
+ <div align="center">
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=20C20E&center=true&vCenter=true&random=false&width=500&lines=%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F+IT+enthusiastic+wizard+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F;%F0%9F%92%BB+Web+%7C+Developer+%7C+Full-Stack+%F0%9F%92%BB" alt="Role Description" />
+</div>
+<!-- Dropdown -->
+
+<p align="center">
+  <em>Driven by curiosity and a passion for technology, I love creating solutions that make life simpler and more enjoyable. I take pride in planning carefully, testing thoroughly, and building strong, reliable systems from the foundation up.</em>
 </p>
 
-<!-- Dropdown -->
-<details>
-  <summary>👨‍💻 Mais sobre mim</summary>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <ul>
+          <li>🚀 Building robust and scalable applications</li>
+          <li>🌱 Continuously learning new technologies</li>
+          <li>🛠️ Creating tools that solve real problems</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>👨‍💻 Code architecture enthusiast</li>
+          <li>🤖 AI & automation explorer</li>
+          <li>🔍 Attention to detail fanatic</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
 
-  - 💬  Sou um entusiasta da tecnologia e atualmente curso Engenharia de Software, área pela qual sou genuinamente apaixonado.
-
-  - 📚  Tenho experiência como desenvolvedor web, trabalhando com HTML, CSS, JavaScript e PHP, sempre buscando criar soluções práticas, funcionais e bem estruturadas.
-Gosto de entender como as coisas funcionam, resolver problemas e transformar ideias em resultados reais.
-
-  - ⚡ Fora da área técnica, gosto de ler (livros, mangás e quadrinhos), assistir filmes e jogar.
-Acredito que nossos hobbies e vivências pessoais ajudam a expandir a criatividade e trazem novas perspectivas para resolver problemas de forma inteligente e inovadora. 🚀
-</details>
+<p align="center">Leveraging advancements in AI and modern development tools, I continuously sharpen my programming skills while pursuing a full-time career in IT. I embrace diverse challenges and stay driven to deliver high-quality results in every project.</p>
 
 ##
 <br>
