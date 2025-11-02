@@ -45,14 +45,6 @@
 <p align="center">Leveraging advancements in AI and modern development tools, I continuously sharpen my programming skills while pursuing a full-time career in IT. I embrace diverse challenges and stay driven to deliver high-quality results in every project.</p>
 <br>
 
-  <!-- Links -->
-<div> 
- 	<a href="" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-
 ##
 
 <br>
@@ -69,8 +61,9 @@
   
 </div>
 
-## ⚡ Technical Arsenal
 <!-- Skills: Programming Languages -->
+## ⚡ Technical Arsenal
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,cs,python,html,css,js,ts,angular&theme=dark&perline=10" />
 </div>
@@ -82,7 +75,7 @@
   <table>
     <tr>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="65" height="65" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="50" />
         <br>C
       </td>
       <td align="center" width="96">
@@ -90,7 +83,7 @@
         <br>C#
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55" />
         <br>Python
       </td>
       <td align="center" width="96">
@@ -106,6 +99,7 @@
 </div>
 </details>
 
+  <!-- Skills: Web Technologies -->
 <details open>
 <summary><h3>🌐 Web Technologies</h3></summary>
 
@@ -137,6 +131,7 @@
 </div>
 </details>
 
+   <!-- Skills: Tools & Frameworks -->
 <details open>
 <summary><h3>🔧 Frameworks & Tools</h3></summary>
 
@@ -148,37 +143,74 @@
         <br>VS Code
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="65" height="65" />
-        <br>.NET Core
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-        <br>GitHub
-      </td>
-      <td align="center" width="96"> 
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="65" height="65" />
         <br>Git
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="65" height="65" />
-        <br>VS
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="65" height="65" />
+        <br>.NET Core
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" width="65" height="65" />
-        <br>Jira
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" width="65" height="65" />
+        <br>React Native
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="65" height="65" />
+        <br>Node.js
+      </td>
+    </tr>
+  </table>
+</div>
+
+  <!-- Databases -->
+<details open>
+<summary><h3>🗄️ Databases</h3></summary>
+  
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="65" height="65" />
+        <br>PostgreSQL
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MS SQL" width="65" height="65" />
+        <br>MS SQL
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="65" height="65" />
+        <br>MongoDB
       </td>
     </tr>
   </table>
 </div>
 </details>
-  
-  <!-- Skills: Tools & Frameworks -->
-  <div style="flex-basis: 48%;">
-    <h3>Tools & Frameworks</h3>
-    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-    <img align="center" alt="reactnative" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg">
-    <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">    
-  </div>
 
+  <!-- GithubStats -->
+## 📊 GitHub Stats
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Wanderson-FB&theme=slateorange" alt="Wanderson-FB GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Wanderson-FB&theme=slateorange" alt="Wanderson-FB GitHub Stats" />
+</div>
+
+  <!-- GitHub Achievements -->
+<details>
+  <summary><h3>🏆 GitHub Achievements</h3></summary>
+  <br />
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Wanderson-FB&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=7&row=1" alt="Wanderson-FB Achievements" />
+  </p>
+</details>
+
+<!-- Connect With Me -->
+## 📫 Connect With Me
+
+<div align="center">
+    <a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  </a>
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  </a>
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  </a>
+</div>
