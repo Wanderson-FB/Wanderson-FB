@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=871BEB" alt="header-capsule"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=28FA38&text=IT%20Professional%20%7C%20Software%20Engineer%20%7C%20Creator&fontAlign=50&section=header&fontColor=FFFFFF&reversal=false&descAlign=60&descAlignY=100&fontAlignY=31&textBg=false&rotate=0&fontSize=30"/>
 </div>
 
 <p align="center">
@@ -44,18 +44,14 @@
 
 ## ⚡ Technical Arsenal
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cs,python,html,css,js,ts,angular,react,nodejs,postgres,mongodb,git,github&theme=dark&perline=12" alt="skills" />
-</div>
-
 <details open>
-<summary><h3>🖥️ Programming Languages & Frameworks</h3></summary>
+<summary><h3>🖥️ Programming Languages</h3></summary>
 
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="48" height="48" /><br/>C</td>
-      <td align="center" width="96"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="48" height="48" /><br/>C#</td>
+      <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" /><br/></td>
+      <td align="center" width="96"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="48" height="48" /><br/>Java</td>
       <td align="center" width="96"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" /><br/>Python</td>
       <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" /><br/>TypeScript</td>
       <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" /><br/>JavaScript</td>
@@ -72,7 +68,7 @@
   <table>
     <tr>
       <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="Angular" width="48" height="48" /><br/>Angular</td>
-      <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" /><br/>React / React Native</td>
+      <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" /><br/>React / Native</td>
       <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" /><br/>HTML5</td>
       <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" /><br/>CSS3</td>
       <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="48" height="48" /><br/>Bootstrap</td>
@@ -145,4 +141,10 @@
 </div>
 
 ---
+<br>
+
+<!-- GIF -->
+![Image](https://github.com/user-attachments/assets/c1221071-b657-4955-bf18-9e95b479721a)
+
+<br>
 
