@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=28FA38&text=IT%20Professional%20%7C%20Software%20Engineer%20%7C%20Creator&fontAlign=50&section=header&fontColor=FFFFFF&reversal=false&descAlign=60&descAlignY=100&fontAlignY=31&textBg=false&rotate=0&fontSize=30"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=28FA38&text=Full%20Stack%20Web%20Development%20&fontSize=40&fontAlign=50&fontAlignY=40&animation=twinkling&fontColor=ffffff&strokeWidth=2&stroke=2E2B00"/>
 </div>
 
 <p align="center">
@@ -50,7 +50,7 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" /><br/></td>
+      <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="48" height="48" /><br/></td>
       <td align="center" width="96"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="48" height="48" /><br/>Java</td>
       <td align="center" width="96"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" /><br/>Python</td>
       <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" /><br/>TypeScript</td>
@@ -86,7 +86,7 @@
     <tr>
       <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="48" height="48" /><br/>VS Code</td>
       <td align="center" width="96"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="48" height="48" /><br/>Git</td>
-      <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="48" height="48" /><br/>.NET Core</td>
+      <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="48" height="43" /><br/>Spring Boot</td>
       <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" /><br/>Node.js</td>
       <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="48" height="48" /><br/>Next.js</td>
     </tr>
