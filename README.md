@@ -67,11 +67,11 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="Angular" width="48" height="48" /><br/>Angular</td>
-      <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" /><br/>React / Native</td>
       <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" /><br/>HTML5</td>
       <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" /><br/>CSS3</td>
       <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="48" height="48" /><br/>Bootstrap</td>
+      <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="Angular" width="48" height="48" /><br/>Angular</td>
+      <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" /><br/>React / Native</td>  
     </tr>
   </table>
 </div>
