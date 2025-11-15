@@ -112,13 +112,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Wanderson-FB&theme=slateorange" alt="repos per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Wanderson-FB&theme=slateorange" alt="most commit language" />
-</div>
-
 <details>
   <summary><h3>🏆 Achievements</h3></summary>
   <p align="center">
