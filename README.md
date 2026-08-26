@@ -112,15 +112,6 @@
 
 ---
 
-<details>
-  <summary><h3>🏆 Achievements</h3></summary>
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Wanderson-FB&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=7&row=1" alt="achievements" />
-  </p>
-</details>
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
