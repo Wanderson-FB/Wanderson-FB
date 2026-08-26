@@ -1,361 +1,270 @@
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=180&color=28FA38&text=Full%20Stack%20Development&fontSize=40&fontAlign=50&fontAlignY=40&animation=twinkling&fontColor=ffffff&strokeWidth=2&stroke=2E2B00"
+    src="https://capsule-render.vercel.app/api?type=waving&height=200&color=20C20E&text=Full%20Stack%20Developer&fontSize=42&fontAlignY=38&animation=fadeIn&fontColor=ffffff"
+    width="100%"
   />
-</div>
-<p align="center">
+
+  <br />
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&multiline=true&width=760&height=70&lines=Building+the+future%2C+one+line+at+a+time;Turning+ideas+into+scalable+solutions"
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&multiline=true&width=800&height=70&lines=Building+the+future%2C+one+line+at+a+time;Turning+ideas+into+scalable+solutions"
       alt="Typing SVG"
     />
   </a>
+  <br />
+
+  <img
+    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
+    width="30"
+    alt="Waving hand"
+  />
+</div>
+👨‍💻 About Me
+<div align="center">
+  Passionate about technology, software architecture and problem solving. I
+  build reliable, scalable and maintainable applications while constantly
+  exploring new technologies and improving my development skills.
+</div>
+🚀 What I Do
+<div align="center">
+  🚀 Development 🧠 Engineering Build scalable applications Clean & maintainable
+  code Design REST APIs Clean Architecture Develop full-stack solutions SOLID &
+  Design Patterns Integrate databases & services Testing & best practices
+</div>
+⚡ Tech Stack 💻 Languages
+<div align="center">
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
+    width="50"
+    height="50"
+    alt="C#"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
+    width="50"
+    height="50"
+    alt="C"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+    width="50"
+    height="50"
+    alt="Python"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+    width="50"
+    height="50"
+    alt="TypeScript"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+    width="50"
+    height="50"
+    alt="JavaScript"
+  />
+</div>
+<p align="center">
+  <b>C#</b> • <b>C</b> • <b>Python</b> • <b>TypeScript</b> • <b>JavaScript</b>
 </p>
-<img
-  src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
-  width="28px"
-  alt="wave"
-/>
-About Me
-<div align="center">
-  <p align="center">
-    <em>
-      Driven by curiosity and a passion for technology, I build reliable,
-      scalable and maintainable applications. I enjoy transforming ideas into
-      practical solutions, exploring new technologies and constantly improving
-      my development skills.
-    </em>
-  </p>
-</div>
-<div align="center">
-  <table>
-    <tr>
-      <td style="padding: 8px 24px; vertical-align: top; text-align: left">
-        <ul>
-          <li>🚀 Building robust and scalable applications</li>
-          <li>🌱 Continuously learning new technologies</li>
-          <li>🛠️ Creating solutions for real-world problems</li>
-        </ul>
-      </td>
-      <td style="padding: 8px 24px; vertical-align: top; text-align: left">
-        <ul>
-          <li>🏗️ Interested in clean architecture</li>
-          <li>🤖 Exploring AI and automation</li>
-          <li>🔍 Focused on code quality and best practices</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
-⚡ Technical Arsenal
-<details open>
-  <summary><h3>💻 Programming Languages</h3></summary>
-  <div align="center">
-    <table>
-      <tr>
-        <td align="center" width="96">
-          <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
-            alt="C#"
-            width="48"
-            height="48"
-          /><br />
-          C#
-        </td>
-        <td align="center" width="96">
-          <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-            alt="C"
-            width="48"
-            height="48"
-          /><br />
-          C
-        </td>
-        <td align="center" width="96">
-          <img
-            src="https://techstack-generator.vercel.app/python-icon.svg"
-            alt="Python"
-            width="48"
-            height="48"
-          /><br />
-          Python
-        </td>
-        <td align="center" width="96">
-          <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-            alt="TypeScript"
-            width="48"
-            height="48"
-          /><br />
-          TypeScript
-        </td>
-        <td align="center" width="96">
-          <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-            alt="JavaScript"
-            width="48"
-            height="48"
-          /><br />
-          JavaScript
-        </td>
-      </tr>
-    </table>
-  </div>
-</details>
-<details open>
-  <summary><h3>🌐 Web & Front-end</h3></summary>
-  <div align="center">
-    <table>
-      <tr>
-        <td align="center" width="96">
-          <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
-            alt="HTML5"
-            width="48"
-            height="48"
-          /><br />
-          HTML5
-        </td>
-        <td align="center" width="96">
-          <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
-            alt="CSS3"
-            width="48"
-            height="48"
-          /><br />
-          CSS3
-        </td>
-        <td align="center" width="96">
-          <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"
-            alt="Bootstrap"
-            width="48"
-            height="48"
-          /><br />
-          Bootstrap
-        </td>
-        <td align="center" width="96">
-          <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg"
-            alt="Angular"
-            width="48"
-            height="48"
-          /><br />
-          Angular
-        </td>
-        <td align="center" width="96">
-          <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
-            alt="React"
-            width="48"
-            height="48"
-          /><br />
-          React
-        </td>
-      </tr>
-    </table>
-  </div>
-</details>
-<details open>
-  <summary><h3>🚀 .NET & Backend</h3></summary>
-  <div align="center">
-    <table>
-      <tr>
-        <td align="center" width="96">
-          <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"
-            alt=".NET"
-            width="48"
-            height="48"
-          /><br />
-          .NET
-        </td>
-        <td align="center" width="96">
-          <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"
-            alt="ASP.NET Core"
-            width="48"
-            height="48"
-          /><br />
-          ASP.NET Core
-        </td>
-        <td align="center" width="96">
-          <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-            alt="Node.js"
-            width="48"
-            height="48"
-          /><br />
-          Node.js
-        </td>
-        <td align="center" width="96">
-          <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
-            alt="Next.js"
-            width="48"
-            height="48"
-          /><br />
-          Next.js
-        </td>
-      </tr>
-    </table>
-  </div>
-</details>
-<details open>
-  <summary><h3>🧩 Architecture & Development</h3></summary>
-  <div align="center">
-    <table>
-      <tr>
-        <td align="center" width="120">🏗️<br />Clean Architecture</td>
-        <td align="center" width="120">📦<br />REST APIs</td>
-        <td align="center" width="120">🔌<br />Entity Framework</td>
-        <td align="center" width="120">🧪<br />Unit Testing</td>
-        <td align="center" width="120">🔐<br />Authentication</td>
-      </tr>
-    </table>
-  </div>
-</details>
-<details open>
-  <summary><h3>🛠️ Tools & DevOps</h3></summary>
-  <div align="center">
-    <table>
-      <tr>
-        <td align="center" width="96">
-          <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"
-            alt="Visual Studio"
-            width="48"
-            height="48"
-          /><br />
-          Visual Studio
-        </td>
-        <td align="center" width="96">
-          <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
-            alt="VS Code"
-            width="48"
-            height="48"
-          /><br />
-          VS Code
-        </td>
-        <td align="center" width="96">
-          <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-            alt="Git"
-            width="48"
-            height="48"
-          /><br />
-          Git
-        </td>
-        <td align="center" width="96">
-          <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-            alt="GitHub"
-            width="48"
-            height="48"
-          /><br />
-          GitHub
-        </td>
-        <td align="center" width="96">
-          <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
-            alt="Docker"
-            width="48"
-            height="48"
-          /><br />
-          Docker
-        </td>
-      </tr>
-    </table>
-  </div>
-</details>
-<details open>
-  <summary><h3>🗄️ Databases</h3></summary>
-  <div align="center">
-    <table>
-      <tr>
-        <td align="center" width="96">
-          <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
-            alt="PostgreSQL"
-            width="48"
-            height="48"
-          /><br />
-          PostgreSQL
-        </td>
-        <td align="center" width="96">
-          <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
-            alt="SQL Server"
-            width="48"
-            height="48"
-          /><br />
-          SQL Server
-        </td>
-        <td align="center" width="96">
-          <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
-            alt="MongoDB"
-            width="48"
-            height="48"
-          /><br />
-          MongoDB
-        </td>
-      </tr>
-    </table>
-  </div>
-</details>
-📊 GitHub Stats
+🌐 Frontend
 <div align="center">
   <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=Wanderson-FB&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+    width="50"
+    height="50"
+    alt="HTML5"
   />
   <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wanderson-FB&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+    width="50"
+    height="50"
+    alt="CSS3"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
+    width="50"
+    height="50"
+    alt="Bootstrap"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"
+    width="50"
+    height="50"
+    alt="Angular"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+    width="50"
+    height="50"
+    alt="React"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
+    width="50"
+    height="50"
+    alt="Next.js"
   />
 </div>
-🔥 Contribution Streak
+<p align="center">
+  <b>HTML5</b> • <b>CSS3</b> • <b>Bootstrap</b> • <b>Angular</b> •
+  <b>React</b> • <b>Next.js</b>
+</p>
+⚙️ Backend & .NET
 <div align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Wanderson-FB&theme=dark&hide_border=true&ring=20C20E&fire=20C20E&currStreakLabel=20C20E"
-    alt="GitHub Streak"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"
+    width="55"
+    height="55"
+    alt=".NET"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
+    width="50"
+    height="50"
+    alt="C#"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
+    width="50"
+    height="50"
+    alt="Node.js"
   />
 </div>
-📫 Connect With Me
+<p align="center">
+  <b>ASP.NET Core</b> • <b>.NET</b> • <b>Entity Framework Core</b> •
+  <b>Node.js</b> • <b>REST APIs</b>
+</p>
+🏗️ Architecture & Engineering
+<div align="center"></div>
+🛠️ Tools & DevOps
+<div align="center">
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg"
+    width="50"
+    height="50"
+    alt="Visual Studio"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
+    width="50"
+    height="50"
+    alt="VS Code"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+    width="50"
+    height="50"
+    alt="Git"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+    width="50"
+    height="50"
+    alt="GitHub"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
+    width="50"
+    height="50"
+    alt="Docker"
+  />
+</div>
+<p align="center">
+  <b>Visual Studio</b> • <b>VS Code</b> • <b>Git</b> • <b>GitHub</b> •
+  <b>Docker</b>
+</p>
+🗄️ Databases
+<div align="center">
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+    width="50"
+    height="50"
+    alt="PostgreSQL"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
+    width="50"
+    height="50"
+    alt="SQL Server"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"
+    width="50"
+    height="50"
+    alt="MongoDB"
+  />
+</div>
+<p align="center"><b>PostgreSQL</b> • <b>SQL Server</b> • <b>MongoDB</b></p>
+📊 GitHub Analytics
+<div align="center">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=Wanderson-FB&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&border_radius=10"
+    alt="GitHub Stats"
+  />
+
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wanderson-FB&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&border_radius=10"
+    alt="Top Languages"
+  />
+</div>
+<br />
+<div align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Wanderson-FB&theme=dark&hide_border=true&background=0D1117&ring=20C20E&fire=20C20E&currStreakLabel=20C20E&sideLabels=FFFFFF&dates=8B949E"
+    alt="GitHub Contribution Streak"
+  />
+</div>
+📈 Contribution Activity
+<div align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Wanderson-FB&bg_color=0D1117&color=20C20E&line=20C20E&point=FFFFFF&area=true&hide_border=true"
+    alt="Contribution Graph"
+  />
+</div>
+🤝 Let's Connect
 <div align="center">
   <a href="mailto:SEU_EMAIL_AQUI">
     <img
-      src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
       alt="Gmail"
     />
   </a>
-  <a href="SEU_LINK_LINKEDIN_AQUI" target="_blank">
+  <a href="SEU_LINK_LINKEDIN_AQUI">
     <img
-      src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
     />
   </a>
-  <a href="SEU_LINK_DISCORD_AQUI" target="_blank">
+  <a href="SEU_LINK_DISCORD_AQUI">
     <img
-      src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white"
+      src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
       alt="Discord"
     />
   </a>
 </div>
+<br />
 <div align="center">
-  <br />
   <img
-    src="https://komarev.com/ghpvc/?username=Wanderson-FB&style=for-the-badge&color=20C20E"
-    alt="Profile views"
+    src="https://komarev.com/ghpvc/?username=Wanderson-FB&style=for-the-badge&color=20C20E&label=PROFILE+VIEWS"
+    alt="Profile Views"
   />
 </div>
 <div align="center">
-  💚 "Code. Learn. Build. Repeat."
+  💚 Code. Learn. Build. Repeat.
+
   <img
     src="https://github.com/user-attachments/assets/c1221071-b657-4955-bf18-9e95b479721a"
+    width="500"
     alt="Developer GIF"
   />
 </div>
-
+<br />
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=20C20E"
+    width="100%"
+  />
+</div>
