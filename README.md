@@ -50,7 +50,6 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="48" height="48" /><br/></td>
       <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="Java" width="48" height="48" /><br/>C#</td>
       <td align="center" width="96"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" /><br/>Python</td>
       <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" /><br/>TypeScript</td>
@@ -113,22 +112,42 @@
 ---
 
 ## 📫 Connect With Me
-
 <div align="center">
-  <a href=""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</div>
 
-<div align="center" style="margin-top:12px;">
-  <img src="https://komarev.com/ghpvc/?username=Wanderson-FB&style=for-the-badge&color=red" alt="Profile view counter"/>
+<a href="mailto:SEU_EMAIL_AQUI">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="SEU_LINK_LINKEDIN_AQUI" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="SEU_LINK_DISCORD_AQUI" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
+
 </div>
 
 ---
 <br>
-💚 Code. Learn. Build. Repeat.
-<br>
+
 <!-- GIF -->
 ![Image](https://github.com/user-attachments/assets/c1221071-b657-4955-bf18-9e95b479721a)
 
 <br>
+
+<div align="center">
+
+<h1>💚 Code. Learn. Build. Repeat.</h1>
+
+<p>
+  <img src="https://img.shields.io/badge/Code-00C853?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/Learn-111111?style=for-the-badge&logo=bookstack&logoColor=00C853">
+  <img src="https://img.shields.io/badge/Build-00C853?style=for-the-badge&logo=github&logoColor=white">
+</p>
+
+<p>
+  <i>Turning ideas into code, one project at a time.</i>
+</p>
+
+</div>
